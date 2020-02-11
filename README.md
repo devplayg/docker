@@ -1,2 +1,2 @@
 # docker
-Docker template
+Docker templates
