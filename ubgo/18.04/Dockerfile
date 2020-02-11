@@ -13,3 +13,4 @@ RUN apt-get clean && \
 ENV GOROOT=/go
 ENV GOPATH=/gohome
 ENV PATH=$GOROOT/bin:$GOPATH/bin:$PATH
+
