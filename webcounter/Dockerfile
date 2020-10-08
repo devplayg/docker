@@ -8,3 +8,5 @@ RUN  go build -o main $GOPATH/src/github.com/devplayg/k8s-101/webserver
 CMD ["./main"]
 
 EXPOSE 80
+
+
